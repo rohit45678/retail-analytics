@@ -1,0 +1,7 @@
+transaction_id,date,customer_id,product,category,quantity,unit_price
+T1,2025-01-05,C1,Widget,Electronics,2,10.00
+T1,2025-01-05,C1,Gadget,Electronics,1,30.00
+T2,2025-01-20,C2,Widget,Electronics,1,10.00
+T3,2025-02-02,C1,Mug,Home,4,5.00
+T4,2025-02-10,C3,Widget,Electronics,3,10.00
+T5,2025-02-15,C2,Gadget,Electronics,2,30.00
